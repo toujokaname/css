@@ -1,26 +1,32 @@
-/** Rinne Expressions
-***/
-
-[character=Rinne][default] {
-  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
-}
-
-[character=Rinne][triumphant] {
-  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
-}
-
-[character=Rinne][pensative] {
-  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
-}
-
-[character=Rinne][dejected] {
-  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
-}
-
-
 /** HiMERU Expressions
 ***/
 [character=HiMERU][irritated] {
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
 }
+
+/** Rinne Expressions
+***/
+
+[character=Rinne][default] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rinne_default.png");
+}
+
+[character=Rinne][dejected] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rinne_dejected.png");
+}
+
+[character=Rinne][pensative] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rinne_pensative.png");
+}
+
+[character=Rinne][triumphant] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rinne_triumphant.png");
+}
+
+
+
+
+
+
+
 
