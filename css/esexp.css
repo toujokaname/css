@@ -4,6 +4,28 @@
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
 }
 
+[character=HiMERU][neutral] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_neutral.png");
+}
+
+[character=HiMERU][surprise] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_surprise.png");
+}
+
+
+/** Hiyori Expressions
+***/
+[character=Hiyori][hmph] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/hiyori_hmph.png");
+}
+
+
+/** Kanata Expressions
+***/
+[character=Kanata][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/kanata_worried.png");
+}
+
 /** Rinne Expressions
 ***/
 
