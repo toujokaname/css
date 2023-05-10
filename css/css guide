@@ -1,0 +1,131 @@
+## Image
+
+<img src="">
+
+## Character lines
+
+<div class="msr-unit" character="" attribute>
+  <div class="msr-icon">
+    <div class="msr-icon__wrapper">
+      <div class="msr-icon__base"></div>
+    </div>
+  </div>
+  <div class="msr-name"></div>
+  <div class="msr-line">
+    <p>
+    </p>
+  </div>
+</div>
+
+## Season
+
+<div class="msr-season ">
+  <p><span><b>Season:</b> </span></p>
+</div>
+
+## Location
+
+<div class="msr-location">
+  <p><span><b>Location:</b> </span></p>
+</div>
+
+## Narration
+
+<div class="msr-narration">
+  <p></p>
+</div>
+
+## Translation notes - Note goes in the quotes of data-tippy-content. Don't use "" quotation marks or it breaks. Place
+it right next to the word you want the TL note to be in. Change the 1 in id="fnref:1 to the number of the footnote, 
+same as the one in between "false"> and </a>
+
+<a class="msr-fn-inline" data-tippy-content="" id="fnref:1" aria-expanded="false">1</a>
+
+## Translation note footer - Place at the bottom of the page. Copy paste note between </a> and </li>
+
+<h2 id="Translation-Notes">Translation Notes</h2>
+<div class="msr-fn">
+  <ol>
+    <li id="fn:1"><a href="#fnref:1" class="arrow">↑</a></li>
+    <li id="fn:2"><a href="#fnref:2" class="arrow">↑</a></li>
+  </ol>
+</div>
+
+## Info box
+
+<div class="three-wrapper"
+  style="--storyColor:#BA2636;--storyColor-rgb:186, 38, 53;--storyColor-h:354;--storyColor-s:66%;--storyColor-l:44%">
+  <div class="info-area">
+    <div class="info">
+      <div class="info-item characters">
+        <div class="label">Characters</div>
+        <div class="value"><a href="/categories/Enstars/" character=""></a> <a href="/categories/Enstars/"
+            character=""></a> <a href="/categories/Enstars/" character=""></a> <a href="/categories/Enstars/"
+            character=""></a> <a href="/categories/Enstars/" character=""></a><a href="/categories/Enstars/"
+            character=""></a></div>
+      </div>
+      <div class="info-item one">
+        <div class="label">Writer</div>
+        <div class="value"></div>
+      </div>
+      <div class="info-item two">
+        <div class="label">Translation</div>
+        <div class="value"></div>
+      </div>
+      <div class="info-item three">
+        <div class="label">Release Date</div>
+        <div class="value"></div>
+      </div>
+    </div>
+  </div>
+
+  ## Paste at the beginning of every page
+
+  <head>
+    <link rel="stylesheet" href="/css/esexp.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
+
+    <style>
+      .post-body embed,
+      .post-body iframe,
+      .post-body img,
+      .post-body video {
+        margin-bottom: 20px;
+      }
+
+      img {
+        border-radius: 5px;
+      }
+
+      body {
+        background: var(--body-bg-color);
+        box-sizing: border-box;
+        color: var(--text-color);
+        font-family: Inter, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        font-size: 1.125em;
+        line-height: 1.5;
+        min-height: 100%;
+        position: relative;
+        transition: padding 0.2s ease-in-out;
+      }
+    </style>
+  </head>
+
+  ## Before closing the <style> tag you can add expressions taken from https://github.com/toujokaname/css/blob/main/css/esexp.css
+  ## Example
+
+  <style>
+    [character=HiMERU][irritated] {
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
+    }
+
+    [character=HiMERU][neutral] {
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_neutral.png");
+    }
+
+    [character=Rinne][pensative] {
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rinne_pensative.png");
+    }
+  </style>
