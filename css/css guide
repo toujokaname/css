@@ -23,6 +23,51 @@
   <p><span><b>Season:</b> </span></p>
 </div>
 
+## Spring
+
+.msr-season.spring p {
+      color: #bc2d5a;
+    }
+
+    .msr-season::before {
+      color: #bc2d5a;
+      justify-self: center;
+    }
+    
+## Summer
+
+.msr-season.summer p {
+      color: #7e9fc3;
+    }
+
+    .msr-season::before {
+      color: #7e9fc3;
+      justify-self: center;
+    }
+
+## Autumn
+
+.msr-season.autumn p {
+      color: #d07825;
+    }
+
+    .msr-season::before {
+      color: #d07825;
+      justify-self: center;
+    }
+    
+## Winter
+
+.msr-season.winter p {
+      color: #57688b;
+    }
+
+    .msr-season::before {
+      color: #57688b;
+      justify-self: center;
+    }
+
+
 ## Location
 
 <div class="msr-location">
@@ -120,12 +165,12 @@ same as the one in between "false"> and </a>
         color: #00677E;
       }
 
-      .msr-season.spring p {
-        color: #bc2d5a;
+      .msr-season. p {
+        color: #;
       }
 
       .msr-season::before {
-        color: #bc2d5a;
+        color: #;
         justify-self: center;
       }
     </style>
