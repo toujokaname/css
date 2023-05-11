@@ -37,11 +37,11 @@
 ## Summer
 
 .msr-season.summer p {
-      color: #7e9fc3;
+      color: #60c3e1;
     }
 
     .msr-season::before {
-      color: #7e9fc3;
+      color: #60c3e1;
       justify-self: center;
     }
 
