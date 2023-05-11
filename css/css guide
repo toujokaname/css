@@ -110,6 +110,24 @@ same as the one in between "false"> and </a>
         position: relative;
         transition: padding 0.2s ease-in-out;
       }
+      
+      .info-item>.label,
+    .value {
+      text-align: center;
+    }
+
+    .msr-line p {
+      color: #00677E;
+    }
+
+    .msr-season.spring p {
+      color: #bc2d5a;
+    }
+
+    .msr-season::before {
+      color: #bc2d5a;
+      justify-self: center;
+    }
     </style>
   </head>
 
