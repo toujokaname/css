@@ -12,6 +12,15 @@
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_surprise.png");
 }
 
+/** HiMERU and others
+[character="HiMERU ・ Tetora"][attribute] {
+    --color: #5d758f;
+    --light-mode: hsl(211, 21%, 46%);
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_tetora.png");
+}
+[character="HiMERU ・ Tetora"]::before {
+    content: 'HiMERU ・ Tetora';
+}
 
 /** Hiyori Expressions
 ***/
