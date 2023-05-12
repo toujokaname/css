@@ -14,6 +14,8 @@
 
 /** HiMERU and others
 ***/
+/** With Tetora
+***/
 [character="HiMERU・Tetora"][attribute] {
       --color: #5d758f;
       --light-mode: hsl(211.2deg 31.05% 85.15%);
@@ -37,6 +39,33 @@
 
     .msr-line.himerutetora p {
       color: #5d758f;
+    }
+
+/** With Kaoru
+***/
+
+[character="HiMERU・Kaoru"][attribute] {
+      --color: #b9caaf;
+      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      ;
+    }
+
+
+    .msr-name.himerukaoru {
+      content: 'HiMERU・Kaoru';
+      font-size: .85em;
+      line-height: .9;
+      font-weight: 700;
+      text-transform: var(--msr-name-case);
+      color: #b9caaf;
+    }
+
+    .msr-name::before {
+      content: var(--name, "HiMERU・Kaoru");
+    }
+
+    .msr-line.himerukaoru p {
+      color: #b9caaf;
     }
 
 /** Hiyori Expressions
