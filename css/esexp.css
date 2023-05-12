@@ -33,7 +33,7 @@
       color: #5d758f;
     }
 
-    .msr-name::before {
+    .msr-name.himerutetora::before {
       content: var(--name, "HiMERU・Tetora");
     }
 
@@ -60,7 +60,7 @@
       color: #b9caaf;
     }
 
-    .msr-name::before {
+    .msr-name.himerukaoru::before {
       content: var(--name, "HiMERU・Kaoru");
     }
 
