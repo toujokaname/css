@@ -13,14 +13,31 @@
 }
 
 /** HiMERU and others
-[character="HiMERU ・ Tetora"][attribute] {
-    --color: #5d758f;
-    --light-mode: hsl(211, 21%, 46%);
-    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_tetora.png");
-}
-[character="HiMERU ・ Tetora"]::before {
-    content: 'HiMERU ・ Tetora';
-}
+***/
+[character="HiMERU・Tetora"][attribute] {
+      --color: #5d758f;
+      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      ;
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_tetora.png");
+    }
+
+
+    .msr-name.himerutetora {
+      content: 'HiMERU・Tetora';
+      font-size: .85em;
+      line-height: .9;
+      font-weight: 700;
+      text-transform: var(--msr-name-case);
+      color: #5d758f;
+    }
+
+    .msr-name::before {
+      content: var(--name, "HiMERU・Tetora");
+    }
+
+    .msr-line.himerutetora p {
+      color: #5d758f;
+    }
 
 /** Hiyori Expressions
 ***/
