@@ -1,0 +1,160 @@
+## Image
+
+<img src="">
+
+## Character lines
+
+<div class="msr-unit" character="" attribute>
+  <div class="msr-icon">
+    <div class="msr-icon__wrapper">
+      <div class="msr-icon__base"></div>
+    </div>
+  </div>
+  <div class="msr-name character"></div>
+  <div class="msr-line character">
+    <p>
+    </p>
+  </div>
+</div>
+
+## Season
+
+<div class="msr-season ">
+  <p><span><b>Season:</b> </span></p>
+</div>
+## Location
+
+<div class="msr-location">
+  <p><span><b>Location:</b> </span></p>
+</div>
+
+## Narration
+
+<div class="msr-narration">
+  <p></p>
+</div>
+
+## Translation notes - Note goes in the quotes of data-tippy-content. Don't use "" quotation marks or it breaks. Place
+it right next to the word you want the TL note to be in. Change the 1 in id="fnref:1 to the number of the footnote,
+same as the one in between "false"> and </a>
+
+<a class="msr-fn-inline" data-tippy-content="" id="fnref:1" aria-expanded="false">1</a>
+
+## Translation note footer - Place at the bottom of the page. Copy paste note between </a> and </li>
+
+<h2 id="Translation-Notes">Translation Notes</h2>
+<div class="msr-fn">
+  <ol>
+    <li id="fn:1"><a href="#fnref:1" class="arrow">↑</a></li>
+    <li id="fn:2"><a href="#fnref:2" class="arrow">↑</a></li>
+  </ol>
+</div>
+
+## Info box
+
+<div class="three-wrapper"
+  style="--storyColor:#00677E;--storyColor-rgb:0, 104, 128;--storyColor-h:191;--storyColor-s:100%;--storyColor-l:25%">
+  <div class="info-area">
+    <div class="info">
+      <div class="info-item characters">
+        <div class="label">Characters</div>
+        <div class="value"><a href="/categories/Enstars/" character=""></a> <a href="/categories/Enstars/"
+            character=""></a> <a href="/categories/Enstars/" character=""></a> <a href="/categories/Enstars/"
+            character=""></a> <a href="/categories/Enstars/" character=""></a><a href="/categories/Enstars/"
+            character=""></a></div>
+      </div>
+      <div class="info-item one">
+        <div class="label">Writer</div>
+        <div class="value"></div>
+      </div>
+      <div class="info-item two">
+        <div class="label">Translation</div>
+        <div class="value"></div>
+      </div>
+      <div class="info-item three">
+        <div class="label">Release Date</div>
+        <div class="value"></div>
+      </div>
+    </div>
+  </div>
+
+  ## Paste at the beginning of every page
+
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/toujokaname/css@main/css/esexp.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/toujokaname/css@main/css/edit.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
+  </head>
+
+  ## Every character
+
+  <a href="/categories/Enstars/Eichi" character="Eichi"></a>
+  <a href="/categories/Enstars/Wataru" character="Wataru"></a>
+  <a href="/categories/Enstars/Tori" character="Tori"></a>
+  <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
+
+  <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
+  <a href="/categories/Enstars/Subaru" character="Subaru"></a>
+  <a href="/categories/Enstars/Makoto" character="Makoto"></a>
+  <a href="/categories/Enstars/Mao" character="Mao"></a>
+
+  <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+  <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+  <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+  <a href="/categories/Enstars/Midori" character="Midori"></a>
+  <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+
+  <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
+  <a href="/categories/Enstars/Aira" character="Aira"></a>
+  <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
+  <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
+
+  <a href="/categories/Enstars/Nagisa" character="Nagisa"></a>
+  <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
+  <a href="/categories/Enstars/Ibara" character="Ibara"></a>
+  <a href="/categories/Enstars/Jun" character="Jun"></a>
+
+  <a href="/categories/Enstars/Shu" character="Shu"></a>
+  <a href="/categories/Enstars/Mika" character="Mika"></a>
+
+  <a href="/categories/Enstars/Hinata" character="Hinata"></a>
+  <a href="/categories/Enstars/Yuuta" character="Yuuta"></a>
+
+  <a href="/categories/Enstars/Rinne" character="Rinne"></a>
+  <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
+  <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
+  <a href="/categories/Enstars/Niki" character="Niki"></a>
+
+  <a href="/categories/Enstars/Rei" character="Rei"></a>
+  <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+  <a href="/categories/Enstars/Koga" character="Koga"></a>
+  <a href="/categories/Enstars/Adonis" character="Adonis"></a>
+
+  <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+  <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+  <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+  <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+
+  <a href="/categories/Enstars/Keito" character="Keito"></a>
+  <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+  <a href="/categories/Enstars/Souma" character="Souma"></a>
+
+  <a href="/categories/Enstars/Tsukasa" character="Tsukasa"></a>
+  <a href="/categories/Enstars/Leo" character="Leo"></a>
+  <a href="/categories/Enstars/Izumi" character="Izumi"></a>
+  <a href="/categories/Enstars/Ritsu" character="Ritsu"></a>
+  <a href="/categories/Enstars/Arashi" character="Arashi"></a>
+
+  <a href="/categories/Enstars/Natsume" character="Natsume"></a>
+  <a href="/categories/Enstars/Tsumugi" character="Tsumugi"></a>
+  <a href="/categories/Enstars/Sora" character="Sora"></a>
+
+  <a href="/categories/Enstars/Madara" character="Madara"></a>
+
+  <a href="/categories/Enstars/Jin" character="Jin"></a>
+  <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
+  <a href="/categories/Enstars/Seiya" character="Seiya"></a>
+  <a href="/categories/Enstars/Gatekeeper" character="Gatekeeper"></a>
+  <a href="/categories/Enstars/Hitsugi" character="Hitsugi"></a>
