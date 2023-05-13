@@ -4,6 +4,10 @@
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
 }
 
+[character=HiMERU][lb] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_lb.png");
+}
+
 [character=HiMERU][neutral] {
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_neutral.png");
 }
@@ -11,6 +15,8 @@
 [character=HiMERU][surprise] {
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_surprise.png");
 }
+
+
 
 /** HiMERU and others
 ***/
@@ -21,7 +27,7 @@
 [character="HiMERU・Kaoru"][attribute] {
       --color: #869745;
       --light-mode: hsl(72.3deg 48.12% 86.34%);
-      ;
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_kaoru.png");
     }
 
 
@@ -42,12 +48,37 @@
       color: #869745;
     }
 
+/** With Niki
+***/
+[character="HiMERU・Niki"][attribute] {
+      --color: #5d758f;
+      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_niki.png");
+    }
+
+
+    .msr-name.himeruniki {
+      content: 'HiMERU・Niki';
+      font-size: .85em;
+      line-height: .9;
+      font-weight: 700;
+      text-transform: var(--msr-name-case);
+      color: #5d758f;
+    }
+
+    .msr-name.himeruniki::before {
+      content: var(--name, "HiMERU・Niki");
+    }
+
+    .msr-line.himeruniki p {
+      color: #5d758f;
+    }
+
 /** With Tetora
 ***/
 [character="HiMERU・Tetora"][attribute] {
       --color: #5d758f;
       --light-mode: hsl(211.2deg 31.05% 85.15%);
-      ;
       --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_tetora.png");
     }
 
@@ -84,6 +115,70 @@
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/kanata_worried.png");
 }
 
+/** Kaoru and others
+***/
+/** With Rei
+***/
+[character="Kaoru・Rei"][attribute] {
+      --color: #5d758f;
+      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/kaoru_rei.png");
+    }
+
+
+    .msr-name.kaorurei {
+      content: 'Kaoru・Rei';
+      font-size: .85em;
+      line-height: .9;
+      font-weight: 700;
+      text-transform: var(--msr-name-case);
+      color: #5d758f;
+    }
+
+    .msr-name.kaorurei::before {
+      content: var(--name, "Kaoru・Rei");
+    }
+
+    .msr-line.kaorurei p {
+      color: #5d758f;
+    }
+
+/** Rei Expressions
+***/
+[character=Rei][lb] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rei_lb.png");
+}
+
+/** Rei and others
+***/
+/** With Kaoru
+***/
+[character="Rei・Kaoru"][attribute] {
+      --color: #5d758f;
+      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rei_kaoru.png");
+    }
+
+
+    .msr-name.reikaoru {
+      content: 'Rei・Kaoru';
+      font-size: .85em;
+      line-height: .9;
+      font-weight: 700;
+      text-transform: var(--msr-name-case);
+      color: #5d758f;
+    }
+
+    .msr-name.reikaoru::before {
+      content: var(--name, "Rei・Kaoru");
+    }
+
+    .msr-line.reikaoru p {
+      color: #5d758f;
+    }
+
+
+
 /** Rinne Expressions
 ***/
 
@@ -111,6 +206,7 @@
 [character="Tomoya・Aira"][attribute] {
       --color: #FFF5DD;
       --light-mode: hsl(42.2deg 100% 93.36%);
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/tomoya_aira.png");
     }
 
 
