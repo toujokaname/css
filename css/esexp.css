@@ -14,32 +14,6 @@
 
 /** HiMERU and others
 ***/
-/** With Tetora
-***/
-[character="HiMERU・Tetora"][attribute] {
-      --color: #5d758f;
-      --light-mode: hsl(211.2deg 31.05% 85.15%);
-      ;
-      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_tetora.png");
-    }
-
-
-    .msr-name.himerutetora {
-      content: 'HiMERU・Tetora';
-      font-size: .85em;
-      line-height: .9;
-      font-weight: 700;
-      text-transform: var(--msr-name-case);
-      color: #5d758f;
-    }
-
-    .msr-name.himerutetora::before {
-      content: var(--name, "HiMERU・Tetora");
-    }
-
-    .msr-line.himerutetora p {
-      color: #5d758f;
-    }
 
 /** With Kaoru
 ***/
@@ -67,6 +41,35 @@
     .msr-line.himerukaoru p {
       color: #869745;
     }
+
+/** With Tetora
+***/
+[character="HiMERU・Tetora"][attribute] {
+      --color: #5d758f;
+      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      ;
+      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_tetora.png");
+    }
+
+
+    .msr-name.himerutetora {
+      content: 'HiMERU・Tetora';
+      font-size: .85em;
+      line-height: .9;
+      font-weight: 700;
+      text-transform: var(--msr-name-case);
+      color: #5d758f;
+    }
+
+    .msr-name.himerutetora::before {
+      content: var(--name, "HiMERU・Tetora");
+    }
+
+    .msr-line.himerutetora p {
+      color: #5d758f;
+    }
+
+
 
 /** Hiyori Expressions
 ***/
@@ -100,8 +103,33 @@
   --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/rinne_triumphant.png");
 }
 
+/** Tomoya and others
+***/
+/** With Aira
+***/
+
+[character="Tomoya・Aira"][attribute] {
+      --color: #FFF5DD;
+      --light-mode: hsl(42.2deg 100% 93.36%);
+    }
 
 
+    .msr-name.tomoyaaira {
+      content: 'Tomoya・Aira';
+      font-size: .85em;
+      line-height: .9;
+      font-weight: 700;
+      text-transform: var(--msr-name-case);
+      color: #d7a65c;
+    }
+
+    .msr-name.tomoyaaira::before {
+      content: var(--name, "Tomoya・Aira");
+    }
+
+    .msr-line.tomoyaaira p {
+      color: #d7a65c;
+    }
 
 
 
