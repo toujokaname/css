@@ -5,7 +5,7 @@
 }
 
 [character=HiMERU][lb] {
-  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@b0ea2f2d0dc199aac48f7e3918554a1b4017ac06/img/himeru_lb.png");
+  --icon:url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776608586616902/himeru_lb.png");
 }
 
 [character=HiMERU][neutral] {
@@ -27,7 +27,7 @@
 [character="HiMERU・Kaoru"][attribute] {
       --color: #869745;
       --light-mode: hsl(72.3deg 48.12% 86.34%);
-      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@b0ea2f2d0dc199aac48f7e3918554a1b4017ac06/img/himeru_kaoru.png");
+      --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776608154599564/himeru_kaoru.png");
     }
 
 
@@ -53,7 +53,7 @@
 [character="HiMERU・Niki"][attribute] {
       --color: #5d758f;
       --light-mode: hsl(211.2deg 31.05% 85.15%);
-      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@b0ea2f2d0dc199aac48f7e3918554a1b4017ac06/img/himeru_niki.png");
+      --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776608876019752/himeru_niki.png");
     }
 
 
@@ -122,7 +122,7 @@
 [character="Kaoru・Rei"][attribute] {
       --color: #5d758f;
       --light-mode: hsl(211.2deg 31.05% 85.15%);
-      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/kaoru_rei.png");
+      --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776609215746149/kaoru_rei.png");
     }
 
 
@@ -146,7 +146,7 @@
 /** Rei Expressions
 ***/
 [character=Rei][lb] {
-  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@b0ea2f2d0dc199aac48f7e3918554a1b4017ac06/img/rei_lb.png");
+  --icon:url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776609761017996/rei_lb.png");
 }
 
 /** Rei and others
@@ -156,7 +156,7 @@
 [character="Rei・Kaoru"][attribute] {
       --color: #5d758f;
       --light-mode: hsl(211.2deg 31.05% 85.15%);
-      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@b0ea2f2d0dc199aac48f7e3918554a1b4017ac06/img/rei_kaoru.png");
+      --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776609467420742/rei_kaoru.png");
     }
 
 
@@ -206,7 +206,7 @@
 [character="Tomoya・Aira"][attribute] {
       --color: #FFF5DD;
       --light-mode: hsl(42.2deg 100% 93.36%);
-      --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@b0ea2f2d0dc199aac48f7e3918554a1b4017ac06/img/tomoya_aira.png");
+      --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776610029441074/tomoya_aira.png");
     }
 
 
