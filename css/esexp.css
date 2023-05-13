@@ -120,8 +120,8 @@
 /** With Rei
 ***/
 [character="Kaoru・Rei"][attribute] {
-      --color: #5d758f;
-      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      --color: #a27d65;
+      --light-mode: hsl(23.61deg 25.21% 81.05%);;
       --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776609215746149/kaoru_rei.png");
     }
 
@@ -132,7 +132,7 @@
       line-height: .9;
       font-weight: 700;
       text-transform: var(--msr-name-case);
-      color: #5d758f;
+      color: #a27d65;
     }
 
     .msr-name.kaorurei::before {
@@ -140,7 +140,7 @@
     }
 
     .msr-line.kaorurei p {
-      color: #5d758f;
+      color: #a27d65;
     }
 
 /** Rei Expressions
@@ -154,8 +154,8 @@
 /** With Kaoru
 ***/
 [character="Rei・Kaoru"][attribute] {
-      --color: #5d758f;
-      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      --color: #a27d65;
+      --light-mode: hsl(23.61deg 25.21% 81.05%);
       --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776609467420742/rei_kaoru.png");
     }
 
@@ -166,7 +166,7 @@
       line-height: .9;
       font-weight: 700;
       text-transform: var(--msr-name-case);
-      color: #5d758f;
+      color: #a27d65;
     }
 
     .msr-name.reikaoru::before {
@@ -174,7 +174,7 @@
     }
 
     .msr-line.reikaoru p {
-      color: #5d758f;
+      color: #a27d65;
     }
 
 
