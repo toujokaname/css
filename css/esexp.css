@@ -45,8 +45,8 @@
 ***/
 
 [character="HiMERU・Kaoru"][attribute] {
-      --color: #b9caaf;
-      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      --color: #869745;
+      --light-mode: hsl(72.3deg 48.12% 86.34%);
       ;
     }
 
@@ -57,7 +57,7 @@
       line-height: .9;
       font-weight: 700;
       text-transform: var(--msr-name-case);
-      color: #b9caaf;
+      color: #869745;
     }
 
     .msr-name.himerukaoru::before {
@@ -65,7 +65,7 @@
     }
 
     .msr-line.himerukaoru p {
-      color: #b9caaf;
+      color: #869745;
     }
 
 /** Hiyori Expressions
