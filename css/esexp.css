@@ -25,7 +25,7 @@
 ***/
 
 [character="HiMERU・Kaoru"][attribute] {
-      --color: #869745;
+      --color: #c3cba4;
       --light-mode: hsl(72.3deg 48.12% 86.34%);
       --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776608154599564/himeru_kaoru.png");
     }
@@ -51,8 +51,8 @@
 /** With Niki
 ***/
 [character="HiMERU・Niki"][attribute] {
-      --color: #5d758f;
-      --light-mode: hsl(211.2deg 31.05% 85.15%);
+      --color: #6da1c7;
+      --light-mode: hsl(206.25deg 38.1% 83.53%);
       --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776608876019752/himeru_niki.png");
     }
 
@@ -63,7 +63,7 @@
       line-height: .9;
       font-weight: 700;
       text-transform: var(--msr-name-case);
-      color: #5d758f;
+      color: #4f88b1;
     }
 
     .msr-name.himeruniki::before {
@@ -71,7 +71,7 @@
     }
 
     .msr-line.himeruniki p {
-      color: #5d758f;
+      color: #4f88b1;
     }
 
 /** With Tetora
