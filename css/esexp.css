@@ -5,7 +5,7 @@
 }
 
 [character=HiMERU][lb] {
-  --icon:url("https://cdn.discordapp.com/attachments/1106761485948031007/1106776608586616902/himeru_lb.png");
+  --icon:url("https://cdn.discordapp.com/attachments/1106761485948031007/1107203309615452230/himeru_lb.png");
 }
 
 [character=HiMERU][neutral] {
@@ -142,6 +142,13 @@
     .msr-line.kaorurei p {
       color: #a27d65;
     }
+
+/** Leo Expressions
+***/
+
+[character=Leo][mg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/leo_mg.png");
+}
 
 /** Rei Expressions
 ***/
