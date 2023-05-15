@@ -125,7 +125,7 @@
 }
 
 .msr-name.himerutetora::before {
-  content: var(--name, "HiMERU・Tetora");
+  content: "HiMERU・Tetora";
 }
 
 .msr-line.himerutetora p {
