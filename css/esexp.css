@@ -13,8 +13,8 @@
 /** With Hinata
 ***/
 [character="hajimehinata"][attribute] {
-  --color: #c3cba4;
-  --light-mode: hsl(72.3deg 48.12% 86.34%);
+  --color: #da93bd;
+  --light-mode: hsl(324.51deg 58.79% 88.53%);
   --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/hajime_hinata.png");
 }
 
@@ -24,7 +24,7 @@
   line-height: 0.9;
   font-weight: 700;
   text-transform: var(--msr-name-case);
-  color: #869745;
+  color: #ab5190;
 }
 
 .msr-name.hajimehinata::before {
@@ -32,7 +32,7 @@
 }
 
 .msr-line.hajimehinata p {
-  color: #869745;
+  color: #ab5190;
 }
 
 /** HiMERU Expressions
@@ -176,8 +176,8 @@
 /** With Arashi
 ***/
 [character="kanataarashi"][attribute] {
-  --color: #a27d65;
-  --light-mode: hsl(23.61deg 25.21% 81.05%);
+  --color: #77b599;
+  --light-mode: hsl(152.31deg 39.39% 87.06%);
   --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/kanata_arashi.png");
 }
 
@@ -187,7 +187,7 @@
   line-height: 0.9;
   font-weight: 700;
   text-transform: var(--msr-name-case);
-  color: #a27d65;
+  color: #4a8f70;
 }
 
 .msr-name.kanataarashi::before {
@@ -195,7 +195,7 @@
 }
 
 .msr-line.kanataarashi p {
-  color: #a27d65;
+  color: #4a8f70;
 }
 
 /** Kaoru and others
@@ -237,8 +237,8 @@
 /** With Midori
 ***/
 [character="natsumemidori"][attribute] {
-  --color: #a27d65;
-  --light-mode: hsl(23.61deg 25.21% 81.05%);
+  --color: #6b2a3a;
+  --light-mode: hsl(345.88deg 35.92% 81.57%);
   --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/natsume_midori.png");
 }
 
@@ -248,7 +248,7 @@
   line-height: 0.9;
   font-weight: 700;
   text-transform: var(--msr-name-case);
-  color: #a27d65;
+  color: #a7334f;
 }
 
 .msr-name.natsumemidori::before {
@@ -256,7 +256,7 @@
 }
 
 .msr-line.natsumemidori p {
-  color: #a27d65;
+  color: #a7334f;
 }
 
 /** Rei Expressions
