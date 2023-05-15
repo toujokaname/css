@@ -28,7 +28,7 @@
 }
 
 .msr-name.hajimehinata::before {
-  content: var(--name, "HiMERU・Kaoru");
+  content: "Hajime・Hinata";
 }
 
 .msr-line.hajimehinata p {
@@ -75,7 +75,7 @@
 }
 
 .msr-name.himerukaoru::before {
-  content: var(--name, "HiMERU・Kaoru");
+  content: "HiMERU・Kaoru";
 }
 
 .msr-line.himerukaoru p {
@@ -100,7 +100,7 @@
 }
 
 .msr-name.himeruniki::before {
-  content: var(--name, "HiMERU・Niki");
+  content: "HiMERU・Niki";
 }
 
 .msr-line.himeruniki p {
@@ -191,7 +191,7 @@
 }
 
 .msr-name.kanataarashi::before {
-  content: var(--name, "Kanata・Arashi");
+  content: "Kanata・Arashi";
 }
 
 .msr-line.kanataarashi p {
@@ -218,7 +218,7 @@
 }
 
 .msr-name.kaorurei::before {
-  content: var(--name, "Kaoru・Rei");
+  content: "Kaoru・Rei";
 }
 
 .msr-line.kaorurei p {
@@ -252,7 +252,7 @@
 }
 
 .msr-name.natsumemidori::before {
-  content: var(--name, "Natsume・Midori");
+  content: "Natsume・Midori";
 }
 
 .msr-line.natsumemidori p {
@@ -285,7 +285,7 @@
 }
 
 .msr-name.reikaoru::before {
-  content: var(--name, "Rei・Kaoru");
+  content: "Rei・Kaoru";
 }
 
 .msr-line.reikaoru p {
@@ -350,7 +350,7 @@
 }
 
 .msr-name.tomoyaaira::before {
-  content: var(--name, "Tomoya・Aira");
+  content: "Tomoya・Aira";
 }
 
 .msr-line.tomoyaaira p {
