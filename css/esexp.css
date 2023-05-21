@@ -37,8 +37,8 @@
 
 /** HiMERU Expressions
 ***/
-[character="HiMERU"][irritated] {
-  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_irritated.png");
+[character="HiMERU"][angry] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_angry.png");
 }
 
 [character="HiMERU"][lb] {
