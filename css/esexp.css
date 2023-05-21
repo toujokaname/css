@@ -41,6 +41,26 @@
   --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_angry.png");
 }
 
+[character="HiMERU"][apologetic] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_apologetic.png");
+}
+
+[character="HiMERU"][autismstare] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_autismstare.png");
+}
+
+[character="HiMERU"][disappointed] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_disappointed.png");
+}
+
+[character="HiMERU"][distress] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_distress.png");
+}
+
+[character="HiMERU"][laugh] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_laugh.png");
+}
+
 [character="HiMERU"][lb] {
   --icon: url("https://cdn.discordapp.com/attachments/1106761485948031007/1107203309615452230/himeru_lb.png");
 }
@@ -49,8 +69,44 @@
   --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_neutral.png");
 }
 
-[character="HiMERU"][surprise] {
-  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_surprise.png");
+[character="HiMERU"][smile] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_smile.png");
+}
+
+[character="HiMERU"][smile2] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_smile2.png");
+}
+
+[character="HiMERU"][smile3] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_smile3.png");
+}
+
+[character="HiMERU"][smug] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_smug.png");
+}
+
+[character="HiMERU"][smug2] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_smug2.png");
+}
+
+[character="HiMERU"][softsmile] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_softsmile.png");
+}
+
+[character="HiMERU"][thinking] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_thinking.png");
+}
+
+[character="HiMERU"][thinking2] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_thinking2.png");
+}
+
+[character="HiMERU"][troubled] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_troubled.png");
+}
+
+[character="HiMERU"][yareyare] {
+  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/himeru_yareyare.png");
 }
 
 /** HiMERU and others
@@ -134,9 +190,6 @@
 
 /** Hiyori Expressions
 ***/
-[character="Hiyori"][hmph] {
-  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/hiyori_hmph.png");
-}
 
 [character="Hiyori"][kh1] {
   --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/hiyori_kh1.png");
@@ -165,10 +218,6 @@
 
 [character="Kanata"][kh2] {
   --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/kanata_kh2.png");
-}
-
-[character="Kanata"][worried] {
-  --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/kanata_worried.png");
 }
 
 /** Kanata and others
