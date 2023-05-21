@@ -132,11 +132,11 @@ body {
   line-height: 0.9;
   font-weight: 700;
   text-transform: var(--msr-name-case);
-  color: #0068b7;
+  color: #206397;
 }
 
 .msr-line.hokuto p {
-  color: #0068b7;
+  color: #206397;
 }
 
 .msr-name.subaru {
@@ -192,11 +192,11 @@ body {
   line-height: 0.9;
   font-weight: 700;
   text-transform: var(--msr-name-case);
-  color: #006e8f;
+  color: #249193;
 }
 
 .msr-line.kanata p {
-  color: #006e8f;
+  color: #249193;
 }
 
 .msr-name.tetora {

@@ -19,34 +19,34 @@
 
 ## Season
 
-<div class="msr-season ">
-  <p><span><b>Season:</b> </span></p>
+<div class="msr-season [SEASON]">
+  <p><span><b>Season:</b> [SEASON]</span></p>
 </div>
 ## Location
 
 <div class="msr-location">
-  <p><span><b>Location:</b> </span></p>
+  <p><span><b>Location:</b> [LOCATION]</span></p>
 </div>
 
 ## Narration
 
 <div class="msr-narration">
-  <p></p>
+  <p>[TEXT]</p>
 </div>
 
 ## Translation notes - Note goes in the quotes of data-tippy-content. Don't use "" quotation marks or it breaks. Place
 it right next to the word you want the TL note to be in. Change the 1 in id="fnref:1 to the number of the footnote,
 same as the one in between "false"> and </a>
 
-<a class="msr-fn-inline" data-tippy-content="" id="fnref:1" aria-expanded="false">1</a>
+<a class="msr-fn-inline" data-tippy-content="[TEXT]" id="fnref:1" aria-expanded="false">1</a>
 
 ## Translation note footer - Place at the bottom of the page. Copy paste note between </a> and </li>
 
 <h2 id="Translation-Notes">Translation Notes</h2>
 <div class="msr-fn">
   <ol>
-    <li id="fn:1"><a href="#fnref:1" class="arrow">↑</a></li>
-    <li id="fn:2"><a href="#fnref:2" class="arrow">↑</a></li>
+    <li id="fn:1"><a href="#fnref:1" class="arrow">↑</a>[TEXT]</li>
+    <li id="fn:2"><a href="#fnref:2" class="arrow">↑</a>[TEXT]</li>
   </ol>
 </div>
 
@@ -81,9 +81,9 @@ same as the one in between "false"> and </a>
   ## Paste at the beginning of every page
 
   <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/toujokaname/css@main/css/esexp.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/toujokaname/css@[CURRENT COMMIT]/css/esexp.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/toujokaname/css@[CURRENT COMMIT]/css/edit.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/toujokaname/css@main/css/edit.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
   </head>
