@@ -41,6 +41,10 @@ body {
   text-align: center;
 }
 
+.msr-cw {
+    background: #d13939;
+}
+
 .minitalk-option_header {
   color: #ee66a6;
 }
