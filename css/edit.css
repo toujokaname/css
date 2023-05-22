@@ -26,6 +26,12 @@ body {
   font-family: "Inter";
 }
 
+.info-area a {
+    color: #5da1cb;
+    transition: .2s ease-in-out;
+    border-bottom: none;
+}
+
 .info-item > .label,
 .value {
   text-align: center;
