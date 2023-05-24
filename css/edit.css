@@ -9,18 +9,6 @@ img {
   border-radius: 5px;
 }
 
-body {
-  background: var(--body-bg-color);
-  box-sizing: border-box;
-  color: #00677e;
-  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1.125em;
-  line-height: 1.5;
-  min-height: 100%;
-  position: relative;
-  transition: padding 0.2s ease-in-out;
-}
-
 .title-area__subtitle,
 .card__jp {
   font-family: "Inter";
