@@ -9,6 +9,10 @@ img {
   border-radius: 5px;
 }
 
+body {
+    --msr-icon-size: 70px;
+  }
+
 .title-area__subtitle,
 .card__jp {
   font-family: "Inter";
