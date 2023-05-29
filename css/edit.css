@@ -1,11 +1,5 @@
-@media only screen and (max-width: 400px) {
-    .story-cover {
-        display: none;
-    }
-
-    .title-area {
-        grid-column: 1/3;
-    }
+.reverse .preview-box {
+    grid-column: 1/3;
 }
 
 .post-body embed,
