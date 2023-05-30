@@ -1,8 +1,7 @@
 .reverse .preview-box {
     grid-column: 1/3;
 }
-
-@media only screen and (max-width: 567px)
+@media only screen and (max-width: 812px)
 .characters>.value a {
     height: 35px;
     width: 35px;
