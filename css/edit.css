@@ -37,6 +37,14 @@ body {
   text-align: center;
 }
 
+.cg-gallery>.tab-content>.gallery {
+    grid-template-columns: repeat(2, minmax(200px, 2fr));
+}
+
+.lightbox-content {
+    max-width: 700px;
+}
+
 .msr-cw {
     background: #d13939;
 }
