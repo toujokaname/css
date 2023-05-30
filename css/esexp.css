@@ -1,10 +1,10 @@
-/** Anzu + Chibi
+/** Anzu Chibi
 ***/
 [character="Anzu"] {
-    --color: #ffb6da;
-    --hue: 330.4;
-    --name: "Anzu";
-    --charahead: url("https://cdn.discordapp.com/attachments/1106010528863748106/1112865271573663864/IMG_0280.png");
+  --color: #ffb6da;
+  --hue: 330.4;
+  --name: "Anzu";
+  --charahead: url("https://cdn.jsdelivr.net/gh/toujokaname/css@main/img/anzu_charahead.png");
 }
 
 /** Arashi Expressions
