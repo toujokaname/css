@@ -2,6 +2,13 @@
     grid-column: 1/3;
 }
 
+@media only screen and (max-width: 567px)
+.characters>.value a {
+    height: 35px;
+    width: 35px;
+    margin-bottom: -3px !important;
+}
+
 .post-body embed,
 .post-body iframe,
 .post-body img,
